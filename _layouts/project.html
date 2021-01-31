@@ -13,19 +13,24 @@
 		<section class="project">
 			<div class="container">
 				<article>
-					<span class="h2">Project Title</span>
+					<span class="h2">Project</span>
 					<h1>
 						<a href="{{ page.project.url }}" target="_blank" title="{{ page.project.title }}" rel="nofollow">{{ page.project.title }}</a>
 					</h1>
-					<span class="h2">Role</span>
+					<span class="h2">Description</span>
 					{{ page.content }}
+					<a href="{{ page.project.github }}" target="_blank" title="Read more..." rel="nofollow">Read more...</a>
+					<div class="links">
+						<br>
+						<a href="{{ page.project.demo }}" target="_blank" title="Live demo" rel="nofollow">Live demo</a>
+					</div>
 					<div class="project-meta">
 						<span class="h2">Technologies</span>
 						<p>{{ page.project.tech }}</p>
-						<span class="h2">Agency</span>
+						<!-- <span class="h2">Agency</span>
 						<p><a title="{{ page.agency.title }}" href="{{ page.agency.url }}" target="_blank" rel="nofollow">{{ page.agency.title }}</a></p>
 						<span class="h2">Year</span>
-						<p>{{ page.agency.year }}</p>
+						<p>{{ page.agency.year }}</p> -->
 					</div>
 				</article>
 				<aside>
