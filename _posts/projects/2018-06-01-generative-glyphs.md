@@ -13,7 +13,7 @@ project:
   logo: "/assets/images/projects/generative-glyphs/alphabet (3).png"
   tech: "p5js"
   code: "https://github.com/Parfy/generative-alphabet"
-  demo: "https://parfy.github.io/Parfy/generative-alphabet/code/index.html"
+  demo: "https://parfy.github.io/generative-alphabet/code/index.html"
 
 images:
   - image:
