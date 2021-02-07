@@ -9,7 +9,7 @@ meta:
 project:
   title: "Host streamlit apps on Github"
   type: "Data Science"
-  url: "/Hello-World/"
+  url: "https://www.streamlit.io/sharing"
   logo: "/assets/images/projects/streamlitshare/streamlit icon.png"
   tech: "streamlit, python, github"
   github: "/Hello-World/"
