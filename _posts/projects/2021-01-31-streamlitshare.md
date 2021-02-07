@@ -12,7 +12,7 @@ project:
   url: "https://www.streamlit.io/sharing"
   logo: "/assets/images/projects/streamlitshare/streamlit icon.png"
   tech: "streamlit, python, github"
-  github: "/Hello-World/"
+  code: "https://github.com/Parfy/Hello-World/"
   demo: "https://share.streamlit.io/parfy/hello-world/main.py"
 
 images:

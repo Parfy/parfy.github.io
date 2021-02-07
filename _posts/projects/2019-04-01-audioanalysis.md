@@ -12,7 +12,7 @@ project:
   url: "/colab-music-feature-extraction/"
   logo: "/assets/images/projects/audioanalysis/audiowave_icon.png"
   tech: "python, p5js, essentia, colab"
-  github: "/colab-music-feature-extraction/"
+  code: "https://github.com/Parfy/colab-music-feature-extraction/"
   demo: "parfy.github.io/colab-music-feature-extraction/Audio%20Wave%20Viz/index.html"
 
 images:
