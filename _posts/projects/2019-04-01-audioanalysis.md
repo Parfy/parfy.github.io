@@ -9,10 +9,10 @@ meta:
 project:
   title: "Audio visualisation with python and p5js"
   type: "Creative Coding"
-  url: "https://github.com/parfy/colab-music-feature-extraction/"
-  logo: "/assets/images/projects/audioanalysis/AudioWave.png"
+  url: "/colab-music-feature-extraction/"
+  logo: "/assets/images/projects/audioanalysis/audiowave_icon.png"
   tech: "python, p5js, essentia, colab"
-  github: "https://parf.page/colab-music-feature-extraction/"
+  github: "/colab-music-feature-extraction/"
   demo: "https://parf.page/demos/audio_viz/"
 
 images:
